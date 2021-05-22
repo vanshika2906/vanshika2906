@@ -3,7 +3,7 @@
 ## 🧔 About Me
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently learning and working with **React** and **Node**
 
 - 👯 I’m looking for **new opportunities**
 
