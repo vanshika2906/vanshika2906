@@ -9,7 +9,7 @@
 
 - 📫 Contact me **[here](vanshikayadavby@gmail.com)**
 
-- ⚡ Student at **NIT Kurukshetra**
+- ⚡ SDE at **Flipkart**
 
 ## 📚 My Skills
 
