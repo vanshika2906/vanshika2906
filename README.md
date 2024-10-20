@@ -1,9 +1,7 @@
-![Vanhika's Seal's-cover](./cover.png)
-
 ## 🧔 About Me
 
 
-- 🌱 Currently learning and working with **React** and **Node**
+- 🌱 Currently working as **Java developer**
 
 - 👯 I’m looking for **new opportunities**
 
